@@ -163,9 +163,5 @@ def cr():
                         print("passwords do not match please reconfirm password")
                         continue
 cr()
-'''implement stack operation for library
-book id, book name are the memebers of the stack
-implement psuh operation and display operation'''
-
 
 
